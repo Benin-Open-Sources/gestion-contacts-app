@@ -1,0 +1,8 @@
+# .gitignore
+# Ignorer les fichiers générés par Nuxt
+frontend/.nuxt
+frontend/node_modules
+
+# Ignorer les fichiers générés par Laravel
+backend/vendor
+backend/node_modules
